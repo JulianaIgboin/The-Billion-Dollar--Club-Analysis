@@ -21,13 +21,6 @@ The club’s executive requested a report to analyze the global landscape of "Un
 ## Data Overview
 The dataset contains 1,074 rows and 10 columns which formed the basis of the   analysis. Covering the founded years of "Unicorn" companies worldwide (startups valued over $1 billion), including company valuations, funding raised, industry, geographic locations, and the time taken to achieve unicorn status.
 
-## Key Findings
-- The global unicorn ecosystem has achieved a total market capitalization of approximately $3.71 trillion.
-- The unicorn market recorded 35.83% year-over-year growth.
-- Fintech emerges as the highest-performing industry by total valuation, outperforming Internet Software & Services,
-  E-commerce, and Artificial Intelligence.
-- Unicorn companies are concentrated in key global innovation hubs, particularly across North America, Europe, and Asia.
-
 ## Data Preview
 ![preview_png](preview.png)
 
